@@ -1,0 +1,4 @@
+/home/paul/Documents/REVA/OpenGL/SummonerRift/build/CMakeFiles/tinygltf.dir
+/home/paul/Documents/REVA/OpenGL/SummonerRift/build/CMakeFiles/SummonerRift.dir
+/home/paul/Documents/REVA/OpenGL/SummonerRift/build/CMakeFiles/edit_cache.dir
+/home/paul/Documents/REVA/OpenGL/SummonerRift/build/CMakeFiles/rebuild_cache.dir

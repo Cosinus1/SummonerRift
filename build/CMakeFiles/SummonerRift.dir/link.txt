@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/SummonerRift.dir/Camera.cpp.o CMakeFiles/SummonerRift.dir/Rift.cpp.o CMakeFiles/SummonerRift.dir/Mesh.cpp.o CMakeFiles/SummonerRift.dir/ShaderProgram.cpp.o CMakeFiles/SummonerRift.dir/Texture2D.cpp.o -o SummonerRift  -lglfw -lGLEW -lGL libtinygltf.a 

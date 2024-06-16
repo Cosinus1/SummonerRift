@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/OpenGLProject.dir/Camera.cpp.o CMakeFiles/OpenGLProject.dir/Rift.cpp.o CMakeFiles/OpenGLProject.dir/Mesh.cpp.o CMakeFiles/OpenGLProject.dir/ShaderProgram.cpp.o CMakeFiles/OpenGLProject.dir/Texture2D.cpp.o -o OpenGLProject  -lglfw -lGLEW -lGL libtinygltf.a 

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/paul/Documents/REVA/OpenGL/SummonerRift/build",
+  "command": "/usr/bin/c++  -I/usr/lib -I/home/paul/Documents/REVA/OpenGL/SummonerRift -g -std=gnu++11 -o CMakeFiles/tinygltf.dir/tiny_gltf.cc.o -c /home/paul/Documents/REVA/OpenGL/SummonerRift/tiny_gltf.cc",
+  "file": "/home/paul/Documents/REVA/OpenGL/SummonerRift/tiny_gltf.cc"
+},
+{
+  "directory": "/home/paul/Documents/REVA/OpenGL/SummonerRift/build",
+  "command": "/usr/bin/c++  -I/usr/lib -I/home/paul/Documents/REVA/OpenGL/SummonerRift -g -std=gnu++11 -o CMakeFiles/SummonerRift.dir/Camera.cpp.o -c /home/paul/Documents/REVA/OpenGL/SummonerRift/Camera.cpp",
+  "file": "/home/paul/Documents/REVA/OpenGL/SummonerRift/Camera.cpp"
+},
+{
+  "directory": "/home/paul/Documents/REVA/OpenGL/SummonerRift/build",
+  "command": "/usr/bin/c++  -I/usr/lib -I/home/paul/Documents/REVA/OpenGL/SummonerRift -g -std=gnu++11 -o CMakeFiles/SummonerRift.dir/Rift.cpp.o -c /home/paul/Documents/REVA/OpenGL/SummonerRift/Rift.cpp",
+  "file": "/home/paul/Documents/REVA/OpenGL/SummonerRift/Rift.cpp"
+},
+{
+  "directory": "/home/paul/Documents/REVA/OpenGL/SummonerRift/build",
+  "command": "/usr/bin/c++  -I/usr/lib -I/home/paul/Documents/REVA/OpenGL/SummonerRift -g -std=gnu++11 -o CMakeFiles/SummonerRift.dir/Mesh.cpp.o -c /home/paul/Documents/REVA/OpenGL/SummonerRift/Mesh.cpp",
+  "file": "/home/paul/Documents/REVA/OpenGL/SummonerRift/Mesh.cpp"
+},
+{
+  "directory": "/home/paul/Documents/REVA/OpenGL/SummonerRift/build",
+  "command": "/usr/bin/c++  -I/usr/lib -I/home/paul/Documents/REVA/OpenGL/SummonerRift -g -std=gnu++11 -o CMakeFiles/SummonerRift.dir/ShaderProgram.cpp.o -c /home/paul/Documents/REVA/OpenGL/SummonerRift/ShaderProgram.cpp",
+  "file": "/home/paul/Documents/REVA/OpenGL/SummonerRift/ShaderProgram.cpp"
+},
+{
+  "directory": "/home/paul/Documents/REVA/OpenGL/SummonerRift/build",
+  "command": "/usr/bin/c++  -I/usr/lib -I/home/paul/Documents/REVA/OpenGL/SummonerRift -g -std=gnu++11 -o CMakeFiles/SummonerRift.dir/Texture2D.cpp.o -c /home/paul/Documents/REVA/OpenGL/SummonerRift/Texture2D.cpp",
+  "file": "/home/paul/Documents/REVA/OpenGL/SummonerRift/Texture2D.cpp"
+}
+]
